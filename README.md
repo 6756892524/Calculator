@@ -43,6 +43,6 @@ A lightweight and responsive web-based calculator developed using HTML, CSS, and
 
 
 
-Your Name
 
-This format looks professional, short, and recruiter-friendly—perfect for resumes and portfolios.
+
+
